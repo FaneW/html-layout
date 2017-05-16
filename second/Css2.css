@@ -1,0 +1,43 @@
+body{
+
+	margin: 0;
+	margin-right: 0;
+	height: 930px;
+	
+}
+
+#blue{
+	background: #4098e4;
+	width: 33.3%;
+	height: 100%;
+	position: relative;
+	float: left;
+	
+}
+
+#mint{
+	background: #6ae6c8;
+	width: 33.3%;
+	height: 100%;
+	position: relative;
+	float: left;
+	
+}
+
+#green{
+	background: #b3e87d;
+	width: 33.4%;
+	height: 100%;
+	position: relative;
+	float: left;
+
+}
+
+img{
+	width: 33.4%;
+	height:30%;
+	position:fixed;
+	bottom:0;
+	
+	
+}

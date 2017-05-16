@@ -1,0 +1,40 @@
+body{
+	margin:0;
+	height: 922px;
+
+	
+}
+
+
+#bigBlack{
+	background: #404040;
+	width: 100%;
+	height: 15%;
+	
+	
+}
+
+#medGrey{
+	background:#d9d9d9;
+	width:100%;
+	height:86%;
+	
+}
+
+#lightGrey{
+	background: #f2f2f2;
+	width: 70%;
+	height: 88%;
+	
+	margin-left: 15%;
+	
+}
+
+#littleBlack{
+	background: #262626;
+	width:70%;
+	height: 12%;
+	margin-left: 15%;
+	
+	
+}
